@@ -1,5 +1,5 @@
 # Summary:
-###### Detail-oriented, quick, and self-directed DevOps engineer with more than a decade (+4 years) of hands-on experience in various roles including team management Designed. implemented, and managed various Cloud, DevOps, and infrastructure projects.
+###### Detail-oriented, quick, and self-directed DevOps engineer with more than +4 years of hands-on experience in various roles including team and Designing, implementing, and managing various Cloud, DevOps, and infrastructure projects.
 ###### I am currently working in AloApplication
 
 ## Socials:
