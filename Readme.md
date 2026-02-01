@@ -1,6 +1,6 @@
 # Summary:
 ###### Detail-oriented, quick, and self-directed DevOps engineer with more than +6 years of hands-on experience in various roles including team and Designing, implementing, and managing various Cloud, DevOps, and infrastructure projects.
-###### I am currently working in AloApplication
+###### I am currently working in BMI
 
 ## Socials:
 [![Site](https://img.shields.io/badge/Wikidevops.ir-0A66C2?style=for-the-badge&logo=docker&logoColor=white)](https://Wikidevops.ir/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-jahanbakhsh/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Kalak6699) [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kubecli)
